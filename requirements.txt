@@ -1,0 +1,5 @@
+streamlit==1.26.0
+streamlit-quill==0.1.4
+beautifulsoup4==4.12.2
+python-docx==0.8.11
+xhtml2pdf==0.2.17
